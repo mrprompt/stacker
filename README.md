@@ -1,4 +1,4 @@
-# UFO Stacker
+# Stacker
 
 Empilhamento de imagens.
 
