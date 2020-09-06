@@ -1,4 +1,5 @@
 # Stacker
+[![Build Status](https://travis-ci.com/mrprompt/stacker.svg?branch=master)](https://travis-ci.com/mrprompt/stacker)
 
 Empilhamento de imagens.
 
